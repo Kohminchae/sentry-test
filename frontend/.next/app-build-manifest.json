@@ -1,0 +1,9 @@
+{
+  "pages": {
+    "/api/sentry-example-api/route": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/api/sentry-example-api/route.js"
+    ]
+  }
+}
